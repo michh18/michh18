@@ -32,9 +32,3 @@ I’m currently developing full-stack applications using C#, .NET, and modern we
 C# console application simulating rover navigation across a plateau grid  
 ➡️ https://github.com/michh18/csharp-mars-rover 
 
----
-
-### 📫 Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/michelle-chan1/  
-- Email: michellechan0518@gmail.com  
