@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi, I'm Michelle 👋
+😄 Pronouns: she/her
 
-<!--
-**michh18/michh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSci Mathematics graduate transitioning into software engineering
 
-Here are some ideas to get you started:
+💻 Currently training as a full-stack developer at Northcoders
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Interested in building practical, data-driven applications
+
+---
+
+### 🚀 About Me
+
+I enjoy breaking down complex problems and building structured, efficient solutions.  
+My background in mathematics and data analysis has shaped how I approach software development—logically, methodically, and with attention to detail.
+
+I’m currently developing full-stack applications using C#, .NET, and modern web technologies, and I’m always looking to improve my skills and learn new tools.
+
+---
+
+### 🛠 Tech Stack
+- **Languages:** C#, Python, SQL  
+- **Backend:** ASP.NET Core, REST APIs, Entity Framework  
+- **Frontend:** Blazor, HTML, CSS  
+- **Tools:** Git, NUnit, TDD, Visual Studio  
+- **Databases:** SQL Server
+
+---
+
+### 📌 Featured Projects
+#### 🚘 Mars Rover Simulation
+C# console application simulating rover navigation across a plateau grid  
+➡️ https://github.com/michh18/csharp-mars-rover 
+
+---
+
+### 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/michelle-chan1/  
+- Email: michellechan0518@gmail.com  
