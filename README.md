@@ -11,8 +11,7 @@
 
 ### 🚀 About Me
 
-I enjoy breaking down complex problems and building structured, efficient solutions.  
-My background in mathematics and data analysis has shaped how I approach software development—logically, methodically, and with attention to detail.
+I enjoy breaking down complex problems and building structured, efficient solutions. My background in mathematics and data analysis has shaped how I approach software development: logically, methodically, and with attention to detail.
 
 I’m currently developing full-stack applications using C#, .NET, and modern web technologies, and I’m always looking to improve my skills and learn new tools.
 
