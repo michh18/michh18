@@ -3,7 +3,7 @@
 
 🎓 MSci Mathematics graduate transitioning into software engineering
 
-💻 Currently training as a full-stack developer at Northcoders
+💻 Just finished training as a full-stack developer at Northcoders!
 
 🌱 Interested in building practical, data-driven applications
 
