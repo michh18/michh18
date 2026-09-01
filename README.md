@@ -39,6 +39,20 @@ Full-stack record inventory management application built with ASP.NET Core, Enti
 
 ➡️ Backend: https://github.com/michh18/cs-record-shop-api
 
+#### 🎯 Bored But Broke
+
+Full-stack web application developed as part of a team project at Northcoders, helping users discover affordable activities based on their location, budget, and preferences.
+
+- Built using **C#, ASP.NET Core, Blazor, HTML, and CSS**
+- Integrated external APIs for activity, location, and weather data
+- Developed filtering functionality and responsive activity cards and detail pages
+- Implemented backend **rate limiting** to manage external API requests
+- Collaborated using **Git and GitHub** within an Agile team workflow
+
+➡️ Frontend: https://github.com/michh18/bored-but-broke-front-end
+
+➡️ Backend: https://github.com/yumnaeltabal/Bored-But-Broke-back-end
+
 #### 🚘 Mars Rover Simulation
 C# console application simulating rover navigation across a plateau grid  
 ➡️ https://github.com/michh18/csharp-mars-rover 
